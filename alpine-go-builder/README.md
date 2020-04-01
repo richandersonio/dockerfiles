@@ -1,0 +1,1 @@
+A small container with the latest versions of git & go.
